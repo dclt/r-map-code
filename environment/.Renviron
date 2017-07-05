@@ -1,0 +1,6 @@
+R_HOME_USER = ~/r
+R_PROFILE_USER = ~/.config/r/Rprofile.r
+R_LIBS_USER = ~/r/library
+R_HISTFILE = /~r/rhistory.Rhistory
+R_DEFAULT_PACKAGES = 'datasets,utils,stats,methods' 
+MYSQL_HOME = /var/lib/mysql                  
